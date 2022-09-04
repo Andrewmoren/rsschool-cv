@@ -24,12 +24,12 @@ I am 29 years old and my main education is medical. I worked as a doctor for 6 y
 
 ### My Skils
 
-- HTML
-- CSS/SASS
+- HTML5, CSS3
 - JavaScript (Basic)
 - React(Basic)
 - Git
-- Figma
+- Adobe Photoshop,Figma
+- VS Code
 
 ---
 
@@ -49,9 +49,12 @@ console.log(res);
 
 - **University**: Grodno state medical university, Physician
 - **Courses**:
+  - Udemy: _Javascript+React_
 
 ---
 
-### English
+### Languages:
 
-- **University**
+- English - Pre-Intermediate
+- Russian - Native
+- Polish - Basic
